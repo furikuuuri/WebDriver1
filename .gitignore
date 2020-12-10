@@ -1,6 +1,18 @@
 # Compiled class file
 *.class
-
+*.db
+*.log
+/target
+/bin
+/**/results
+/**/.idea
+/**/out
+/**/*.iml
+/**/.idea
+/**/out
+/**/*.iml
+/**/target
+*.swp
 # Log file
 *.log
 
